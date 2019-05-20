@@ -1,0 +1,21 @@
+{
+  "name": "copy-string",
+  "version": "1.0.2",
+  "keywords": [
+    "copy",
+    "string",
+    "clipboard"
+  ],
+  "description": "copy string",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "mocha",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
